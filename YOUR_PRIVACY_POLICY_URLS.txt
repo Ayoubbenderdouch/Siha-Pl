@@ -1,0 +1,45 @@
+═══════════════════════════════════════════════════════════════
+  DEINE PRIVACY POLICY URLs - Nach GitHub Pages Aktivierung
+═══════════════════════════════════════════════════════════════
+
+🌐 HAUPTSEITE:
+https://ayoubbenderdouch.github.io/Siha-Pl/
+
+📄 MyClinic Privacy Policy URL:
+https://ayoubbenderdouch.github.io/Siha-Pl/myclinic-privacy.html
+
+📄 SihaPlus Privacy Policy URL:
+https://ayoubbenderdouch.github.io/Siha-Pl/sihaplus-privacy.html
+
+═══════════════════════════════════════════════════════════════
+  GOOGLE PLAY CONSOLE - URLs EINTRAGEN
+═══════════════════════════════════════════════════════════════
+
+MyClinic App:
+→ App Content → Privacy Policy
+→ URL: https://ayoubbenderdouch.github.io/Siha-Pl/myclinic-privacy.html
+
+SihaPlus App:
+→ App Content → Privacy Policy
+→ URL: https://ayoubbenderdouch.github.io/Siha-Pl/sihaplus-privacy.html
+
+═══════════════════════════════════════════════════════════════
+  DEINE KONTAKTDATEN (Bereits eingefügt)
+═══════════════════════════════════════════════════════════════
+
+Email: sihaplus.dz@gmail.com
+Telefon: +213 775 758 286
+Land: Algérie
+
+═══════════════════════════════════════════════════════════════
+  NÄCHSTE SCHRITTE
+═══════════════════════════════════════════════════════════════
+
+1. Push zu GitHub (siehe PUSH_TO_GITHUB.md)
+2. GitHub Pages aktivieren
+3. URLs testen
+4. URLs in Google Play Console eintragen
+5. FERTIG! ✅
+
+GitHub Repository:
+https://github.com/Ayoubbenderdouch/Siha-Pl
